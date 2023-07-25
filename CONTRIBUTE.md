@@ -1,4 +1,4 @@
-## **Involvement in the **Stream**Protocol´s Blockchain-based Projects** (under construction)
+## **Involvement in the **Stream**Protocol´s Blockchain-based Projects**
 
 #### **Stream**Protocol welcome developers and individuals from all backgrounds to get involved in the **Stream**Payments and Stream**Pay** projects. There are several ways you can contribute and be a part of our growing community:
 
