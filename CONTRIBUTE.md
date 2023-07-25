@@ -1,4 +1,4 @@
-## **Involvement in the **Stream**Protocol Project**
+## **Involvement in the **Stream**Protocol´s Blockchain-based Projects** (under construction)
 
 #### **Stream**Protocol welcome developers and individuals from all backgrounds to get involved in the **Stream**Payments and Stream**Pay** projects. There are several ways you can contribute and be a part of our growing community:
 
@@ -34,7 +34,7 @@ Your contributions to the StreamPayments project will be acknowledged and valued
 
 To start contributing to the StreamPayments project:
 
-1. Join our GitHub repository: [StreamPayments API](https://github.com/StreamPayments/StreamPayments-API).
+1. Join our GitHub repository: [**Stream**Payments API](https://github.com/stream-innovations/stream-payments-api).
 
 2. Explore open issues, tasks, and feature requests.
 
@@ -77,7 +77,9 @@ StreamPayments is an open and inclusive project, and we value the contributions 
 
 ## Join the Community:
 
-##### Participating in an open source project is not only about contributing code but also about becoming part of a vibrant and inclusive community. Here's how you can join the StreamPayments community:
+##### Participating in an open source project is not only about contributing code but also about becoming part of a vibrant and inclusive community. Here's how you can join the 
+
+### **Stream**Payments community:
 
 - **Discussions**: Engage in discussions on GitHub issues, pull requests, and the project's communication channels.
 
@@ -88,7 +90,7 @@ StreamPayments is an open and inclusive project, and we value the contributions 
 
 ## Recognition and Rewards:
 
-##### As a contributor to the StreamPayments API project, your efforts will be recognized and valued by the community. Additionally, you will have the opportunity to:
+##### As a contributor to the **Stream**Payments API project, your efforts will be recognized and valued by the community. Additionally, you will have the opportunity to:
 
 - Showcase your expertise and contributions on your GitHub profile and resume.
 
@@ -101,6 +103,19 @@ StreamPayments is an open and inclusive project, and we value the contributions 
 
 ## Start Contributing Today!
 
-Join us in building a robust and innovative StreamPayments API by contributing your skills and ideas. Together, we can create a powerful payment gateway that empowers businesses and users in the world of cryptocurrencies.
+Join us in building a robust and innovative **Stream**Payments API by contributing your skills and ideas. Together, we can create a powerful payment gateway that empowers businesses and users in the world of cryptocurrencies.
 
-To get started, head over to our GitHub repository: [StreamPayments API](https://github.com/StreamPayments/StreamPayments-API). We look forward to your valuable contributions and seeing you thrive in our open source community!
+To get started, head over to our GitHub repository: [StreamPayments API](https://github.com/stream-innovations/stream-payments-api). We look forward to your valuable contributions and seeing you thrive in our open source community!
+
+
+## Developers
+- [**Stream**Payments Platform](https://github.com/stream-innovations/stream-payments-platform)
+- [**Stream**Payments API](https://github.com/stream-innovations/stream-payments-api).
+- [**Stream**Protocol Github](https://github.com/stream-protocol/)
+
+
+## Community
+
+- [Medium](https://medium.com/@stream_protocol)
+- [Discord]: 
+- [X (Twitter)](https://twitter.com/stream_protocol)
