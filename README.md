@@ -19,17 +19,18 @@ Double spending is a critical concern in the realm of digital currencies, where 
 
 The choice of the Solana blockchain as the underlying technology for the StreamPayments Gateway brings several advantages. Solana is known for its high throughput and low transaction fees, making it well-suited for handling a large number of transactions quickly and cost-effectively. Additionally, Solana's robust security features and support for smart contracts enhance the functionality and reliability of the payment gateway.
 
-#### Key Benefits
+### Key Benefits
 
 - Seamlessly integrates fiat and cryptocurrencies for businesses.
-Simplifies offshore account opening for international expansion and financial optimization.
-Mitigates the risk of double spending, ensuring the security of transactions.
-Leverages the high throughput and low transaction fees of the Solana blockchain.
-Provides businesses with a secure and efficient payment gateway for global operations.
-Features
+- Simplifies offshore account opening for international expansion and financial optimization.
+- Mitigates the risk of double spending, ensuring the security of transactions.
+- Leverages the high throughput and low transaction fees of the Solana blockchain.
+- Provides businesses with a secure and efficient payment gateway for global operations.
 
-#### Double Spending Prevention
+  
+### Features:
 
+- Double Spending Prevention
 - Fiat-Cryptocurrency Compatibility
 - Effortless Offshore Account Opening
 - Solana Network and Web3 Integration
