@@ -110,12 +110,12 @@ To get started, head over to our GitHub repository: [StreamPayments API](https:/
 
 ## Developers
 - [**Stream**Payments Platform](https://github.com/stream-innovations/stream-payments-platform)
-- [**Stream**Payments API](https://github.com/stream-innovations/stream-payments-api).
+- [**Stream**Payments API](https://github.com/stream-innovations/stream-payments-api)
 - [**Stream**Protocol Github](https://github.com/stream-protocol/)
 
 
 ## Community
 
 - [Medium](https://medium.com/@stream_protocol)
-- [Discord]: 
+- [Discord](https://)
 - [X (Twitter)](https://twitter.com/stream_protocol)
